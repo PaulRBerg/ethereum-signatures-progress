@@ -1,4 +1,4 @@
-A collection of resources and projects I collected in order to implement EIP-191 and EIP-712 into [geth](https://github.com/ethereum/go-ethereum). Note that this is a WIP and the registry compatibility levels at the bottom of the page will change soon.
+A collection of links of resources and projects I collected in order to implement EIP-191 and EIP-712 into [geth](https://github.com/ethereum/go-ethereum). Note that this is a WIP and the registry compatibility levels at the bottom of the page will change soon.
 
 ### Resources
 
